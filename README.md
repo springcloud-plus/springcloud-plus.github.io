@@ -6,7 +6,6 @@
 
 ## spring-cloud-plus V1.0 Technology Stack
 Component | Version |  Remark
--|-|-
 Spring Cloud | Hoxton.SR3 | Spring Cloud |
 Spring Boot | 2.2.5.RELEASE | Spring Boot |
 spring-cloud-alibaba | 2.2.0.RELEASE | Spring Cloud Alibaba |
