@@ -5,6 +5,8 @@
 ### [springcloud.plus](http://springcloud.plus)
 
 ## spring-cloud-plus V1.0 Technology Stack
+
+-|-|-
 Component | Version |  Remark
 Spring Cloud | Hoxton.SR3 | Spring Cloud |
 Spring Boot | 2.2.5.RELEASE | Spring Boot |
