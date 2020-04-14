@@ -1,8 +1,8 @@
 # spring-cloud-plus
 
-#### [GITHUB](https://github.com/geekidea/spring-cloud-plus) | [GITEE](https://gitee.com/geekidea/spring-cloud-plus)
+### [GITHUB](https://github.com/geekidea/spring-cloud-plus) | [GITEE](https://gitee.com/geekidea/spring-cloud-plus)
 
-#### [springcloud.plus](http://springcloud.plus)
+### [springcloud.plus](http://springcloud.plus)
 
 ## spring-cloud-plus V1.0 计划技术选型
 ### Spring Cloud：Spring Cloud Hoxton.SR3
